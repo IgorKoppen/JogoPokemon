@@ -1,1 +1,1 @@
-# JogoPokemon
+# JogoPokemon Vite+React+Tailwind
